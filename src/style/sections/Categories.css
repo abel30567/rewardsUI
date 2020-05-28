@@ -1,0 +1,9 @@
+.Categories {
+  border-left: 2px solid gray;
+  border-right: 2px solid gray; 
+  padding-left: 0px;
+  /* padding-right: 0px; */
+  height: 100vh;
+  display: 'flex';
+  flex-direction: 'column';
+}

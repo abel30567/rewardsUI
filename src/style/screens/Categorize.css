@@ -1,0 +1,15 @@
+.titleContainer{
+  text-align: center;
+  border-bottom: 1px solid gray;
+  margin-bottom: 1%;
+  margin-left: 1%;
+}
+.ghostContainer{
+  border-color: transparent;
+}
+.ghostContainer h5{
+  color: transparent;
+}
+.ghostContainer .closeOut {
+  display: none;
+}
